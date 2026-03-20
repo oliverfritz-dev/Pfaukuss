@@ -1,0 +1,15 @@
+# Supabase Secrets
+Secrets.xcconfig
+
+# Xcode
+*.xcuserstate
+xcuserdata/
+DerivedData/
+*.moved-aside
+*.pbxuser
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+.build/
